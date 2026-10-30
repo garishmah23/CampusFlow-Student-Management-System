@@ -30,11 +30,12 @@ mvn spring-boot:run
 
 5. Open `http://localhost:8080/api/students` in your browser.
 
-c:\Users\hp\OneDrive\Pictures\Screenshots\Screenshot 2026-10-30 120027.png
+<img width="1917" height="936" alt="Screenshot 2026-10-30 120027" src="https://github.com/user-attachments/assets/5bb97db4-b6b1-4437-97dc-88c7bbadf658" />
 
-c:\Users\hp\OneDrive\Pictures\Screenshots\Screenshot 2026-10-30 122314.png
+<img width="1896" height="911" alt="Screenshot 2026-10-30 122314" src="https://github.com/user-attachments/assets/87f835f1-563f-400f-a800-2fff7f31e0cf" />
 
-c:\Users\hp\OneDrive\Pictures\Screenshots\Screenshot 2026-10-30 122403.png
+<img width="635" height="192" alt="Screenshot 2026-10-30 122403" src="https://github.com/user-attachments/assets/3e4126e2-4e15-40ca-ad6b-77add0b1cbf7" />
+
 
 
 > This project includes a Windows Maven bootstrap script (`mvnw.cmd`). On first run, it downloads Apache Maven 3.9.11 into the project `.mvn` folder, then runs the requested Maven command. No separate Maven installation is required. An internet connection is needed for the first run.
