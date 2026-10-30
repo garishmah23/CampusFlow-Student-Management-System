@@ -1,0 +1,9 @@
+START HERE
+
+1. Extract this ZIP file.
+2. Open the extracted CI-CD-Automation-Demo folder in VS Code.
+3. Do not rename the project or move individual files.
+4. Confirm that you can see pom.xml and the src folder.
+5. Return to the ChatGPT conversation and say: OPENED.
+
+We will run the application together before adding CI/CD.
